@@ -5,6 +5,6 @@
   <li>A car counter program</li>
   <li>A custom object detection model that detects cats</li>
 </ul>
-<img src = "cats.png" width = "600"/>
+<img src = "cats.png" width = "1000"/>
 <br>
-<img src = "cars.png" width = "600"/>
+<img src = "cars.png" width = "1000"/>
